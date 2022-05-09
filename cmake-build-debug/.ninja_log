@@ -1,0 +1,6 @@
+# ninja log v5
+2	618	1645605718202974011	CMakeFiles/OS.dir/processConcept/hello.cpp.o	5f7f2dc178c19917
+0	100	1652097168340177253	build.ninja	c2d9717409a03c07
+0	617	1645605718202974095	CMakeFiles/OS.dir/main.cpp.o	d9d8698420eada67
+0	323	1652097186244168766	CMakeFiles/OS.dir/main.cpp.o	d51dee4a34462049
+1	324	1652097186244171391	CMakeFiles/OS.dir/processConcept/hello.cpp.o	afaaf527a5ca43ac
